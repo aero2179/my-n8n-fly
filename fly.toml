@@ -1,7 +1,5 @@
 app = "my-n8n-fly"
 
-[build]
-  image = "n8nio/n8n"
 
 [env]
   GENERIC_TIMEZONE = "Europe/Athens"
